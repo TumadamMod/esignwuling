@@ -18,7 +18,7 @@
       <key>metadata</key>
       <dict>
         <key>bundle-identifier</key>
-        <string>com.tumadam.mod.app9</string>
+        <string>tumadam.mod.app9</string>
         <key>bundle-version</key>
         <string>5.0.2</string>
         <key>kind</key>
